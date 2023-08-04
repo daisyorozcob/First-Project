@@ -42,3 +42,7 @@ div  {
     padding: 10px;
     height: 400px;
 }
+
+body {
+    background-color: rgba(226, 170, 170, 0.276);
+}
