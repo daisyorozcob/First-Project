@@ -8,7 +8,7 @@ h1 {
 
 h2 {
     text-align: center;
-    background-color: rgb(255, 255, 214);
+    background-color: rgba(184, 156, 156, 0.521);
     padding: 7px;
     font-family:'Times New Roman', Times, serif;
     border-radius: 5px;
@@ -20,7 +20,7 @@ div  {
 }
 
 .BG {
-    background-color: rgb(168, 168, 168);
+    background-color: rgba(224, 201, 216, 0.621);
     border-radius: 5px;
     padding: 10px;
     width: 30%;
@@ -29,7 +29,7 @@ div  {
 
 .AM {
     width: 30%;
-    background-color: rgb(142, 126, 101);
+    background-color: rgb(189, 179, 174);
     padding: 10px;
     border-radius: 10px;
     height: 400px;
@@ -44,19 +44,12 @@ div  {
 }
 
 body {
-    background-color: rgba(226, 170, 170, 0.276);
+    background-color: rgba(238, 223, 201, 0.859);
+    color: rgb(127, 107, 94);
 }
 
 .Music {
-    background-color:rgb(196, 119, 78);
-    width: 80%;
-    border-radius: 5px;
-    padding: 10px;
-    height: 400px;
-}
-
-.Music img {
-    background-color:rgb(196, 119, 78);
+    background-color:rgb(207, 220, 236);
     width: 80%;
     border-radius: 5px;
     padding: 10px;
