@@ -46,3 +46,11 @@ div  {
 body {
     background-color: rgba(226, 170, 170, 0.276);
 }
+
+.Music {
+    background-color:rgb(249, 216, 198);
+    width: 300px;
+    border-radius: 5px;
+    padding: 10px;
+    height: 400px;
+}
