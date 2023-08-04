@@ -20,17 +20,19 @@ div  {
 }
 
 .BG {
-    background-color: rgb(139, 122, 114);
+    background-color: rgb(168, 168, 168);
     border-radius: 5px;
     padding: 10px;
     width: 30%;
+    height: 400px;
 }
 
 .AM {
     width: 30%;
-    background-color: rgb(255, 214, 251);
+    background-color: rgb(142, 126, 101);
     padding: 10px;
     border-radius: 10px;
+    height: 400px;
 }
 
 .hobbie {
@@ -38,4 +40,5 @@ div  {
     width: 300px;
     border-radius: 5px;
     padding: 10px;
+    height: 400px;
 }
