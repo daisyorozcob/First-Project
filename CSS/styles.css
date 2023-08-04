@@ -16,10 +16,11 @@ h2 {
 }
 
 div  {
+    float: left;
 }
 
 .BG {
-    background-color: rgb(111, 77, 61);
+    background-color: rgb(139, 122, 114);
     border-radius: 5px;
     padding: 10px;
     width: 30%;
@@ -27,12 +28,14 @@ div  {
 
 .AM {
     width: 30%;
-    background-color: aqua;
-    float: right;
-    padding-bottom: 500px;
+    background-color: rgb(255, 214, 251);
+    padding: 10px;
+    border-radius: 10px;
 }
 
 .hobbie {
-    background-color: red;
-    width: 30%;
+    background-color:rgb(249, 216, 198);
+    width: 300px;
+    border-radius: 5px;
+    padding: 10px;
 }
