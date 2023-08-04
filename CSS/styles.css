@@ -48,8 +48,16 @@ body {
 }
 
 .Music {
-    background-color:rgb(249, 216, 198);
-    width: 300px;
+    background-color:rgb(196, 119, 78);
+    width: 80%;
+    border-radius: 5px;
+    padding: 10px;
+    height: 400px;
+}
+
+.Music img {
+    background-color:rgb(196, 119, 78);
+    width: 80%;
     border-radius: 5px;
     padding: 10px;
     height: 400px;
