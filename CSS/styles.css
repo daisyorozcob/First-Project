@@ -1,5 +1,6 @@
 h1 {
-    background-color: blue;
+    background-color: rgb(255, 255, 214);
     text-align: center;
     border-radius: 10px;
-}
+    padding: 20px;
+    }
