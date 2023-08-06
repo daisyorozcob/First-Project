@@ -2,7 +2,7 @@
 
 #### By _**Daisy Orozco Bautista**_
 
-#### _A webpage about that is all about myself_
+#### _A webpage that is all about myself_
 
 ## Technologies Used
 
