@@ -19,7 +19,7 @@ div  {
     float: left;
 }
 
-.BG {
+.bg {
     background-color: rgba(224, 201, 216, 0.621);
     border-radius: 5px;
     padding: 10px;
@@ -27,7 +27,7 @@ div  {
     height: 400px;
 }
 
-.AM {
+.am {
     width: 30%;
     background-color: rgb(189, 179, 174);
     padding: 10px;
@@ -48,7 +48,7 @@ body {
     color: rgb(127, 107, 94);
 }
 
-.Music {
+.music {
     background-color:rgb(207, 220, 236);
     width: 80%;
     border-radius: 5px;
