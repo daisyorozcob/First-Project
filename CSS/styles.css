@@ -25,6 +25,7 @@ div  {
     padding: 10px;
     width: 30%;
     height: 400px;
+    margin: 10px;
 }
 
 .am {
@@ -33,6 +34,7 @@ div  {
     padding: 10px;
     border-radius: 10px;
     height: 400px;
+    margin: 10px;
 }
 
 .hobbie {
@@ -41,6 +43,7 @@ div  {
     border-radius: 5px;
     padding: 10px;
     height: 400px;
+    margin: 10px;
 }
 
 body {
@@ -54,4 +57,14 @@ body {
     border-radius: 5px;
     padding: 10px;
     height: 400px;
+    margin: 10px;
 }
+
+.project {
+    background-color: rgb(170, 157, 123);
+    width: 80%;
+    border-radius: 5px;
+    padding: 10px;
+    height: 150px;
+    margin: 10px;
+ }
