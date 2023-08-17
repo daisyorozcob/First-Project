@@ -15,6 +15,10 @@ _This application is made using HTML and CSS. The content of the webpage is to i
 
 ## Setup/Installation Requirements
 
+<<<<<<< HEAD
+=======
+* Open terminal or gitbash
+>>>>>>> gh-pages
 * Clone this link https://github.com/daisyorozcob/First-Project.git into repository
 * Navigate to the top level of the directory
 * Open the index.html into your browser
